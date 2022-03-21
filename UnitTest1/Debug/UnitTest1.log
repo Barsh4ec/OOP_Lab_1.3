@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\User\source\repos\OOP_Lab_1.3\UnitTest1\UnitTest1.cpp(16,13): warning C4101: 'a': unreferenced local variable
+     Creating library C:\Users\User\source\repos\OOP_Lab_1.3\Debug\UnitTest1.lib and object C:\Users\User\source\repos\OOP_Lab_1.3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\OOP_Lab_1.3\Debug\UnitTest1.dll
